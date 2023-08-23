@@ -2,7 +2,7 @@
  Beirut, Lebanon  
 E: abdallah.salami1998@gmail.com  
 T: +961 70 763 345
-
+![profile](Abdallah.jpeg)
 ## Physicist
 An enthusiastic and dedicated physics graduate with more than a year of experience as a teacher. Extremely organized with the ability to work both individually and as part of a successful team, demonstrating motivation and multitasking skills required to complete tasks on time while maintaining the highest possible standards, even under pressure.
 
