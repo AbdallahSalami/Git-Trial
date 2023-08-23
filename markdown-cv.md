@@ -21,3 +21,10 @@ Mathematics - Physics for high school and university students
 - Delegation for Physics student work at the Faculty of Sciences at the university, 2017 - 2019.
 - Participated in organizing the 5th Annual Robotics Competition; the biggest robotics competition in Lebanon, 2019.
 - Cofounder and general-financial manager of Momenteam LU, conducting scientific seminars, orientation workshops, and activities for scholars of different scientific backgrounds, 2018 – present.
+
+### Other Skills
+- Problem-solving and conflict resolution.
+- Adaptability, leadership, and decision making.
+- Fluent in Arabic (Native): Excellent in speaking, reading, writing, and understanding. Good at what has preceded in English.
+- Programming skills: C, C++, Java, MATLAB, Python, HTML, CSS, and JavaScript.
+- Computer skills: Microsoft Office, Photoshop, Illustrator, Premier.
